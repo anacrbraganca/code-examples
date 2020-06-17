@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.examples.files.CreateAndWriteFilesDinamicallyTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-17T15:37:28" hostname="LAabraganc" time="0.113">
+  <properties/>
+  <testcase name="shouldWriteInFileFromHashmap" classname="com.examples.files.CreateAndWriteFilesDinamicallyTest" time="0.113"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
